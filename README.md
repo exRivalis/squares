@@ -26,6 +26,14 @@ in "Random / Aléatoire" mode each round the order changes with one more positio
 
 ## Demo: Settings
 
+- Enable/disable sound
+- Change grid size:
+  - 2x2
+  - 3x3
+  - 4x4
+- Reflex/speed mode: enable/disable traps
+- Memory mode: choose between Random and Repetition modes
+
 <p align="center">
    <img src="resources/squares-app-demo-settings.gif" width="220" alt="App Demo"/>
 </p>
