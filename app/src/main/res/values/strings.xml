@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Squares!</string>
+    <string name="settings">Settings</string>
+    <string name="grid_size">Grid Size</string>
+    <string name="reflex_mode">Reflex Mode</string>
+    <string name="traps">Traps</string>
+    <string name="memory_mode">Memory Mode</string>
+    <string name="random">Random</string>
+    <string name="repeat">Repeat</string>
+    <string name="save">save</string>
+    <string name="saved">Settings saved !</string>
+    <string name="sound">Sound</string>
+    <string name="dialog_reflex_title">Tips</string>
+    <string name="reflex_supporting_text">\nTap on the green square before it disappears !\n\nN.b. beware the red square !</string>
+    <string name="dialog_understood">Ok</string>
+    <string name="dialog_dont_show">Don\'t show again</string>
+    <string name="dialog_memory_title">Tips</string>
+    <string name="memory_supporting_text">\nObserve the sequence then reproduce it !\n\nN.b. The sequence is incremented after each round !</string>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<!--
+    <ImageButton
+        android:id="@+id/settingsBtn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_settings_24"
+        android:background="?selectableItemBackgroundBorderless"
+        android:layout_margin="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/soundBtn"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_margin="16dp"
+        android:layout_marginTop="44dp"
+        android:background="?selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_volume_up_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/settingsBtn" />
+-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/audiowide"
+            android:layout_marginTop="@dimen/dp_20"
+            android:layout_marginEnd="@dimen/dp_8"
+            android:layout_marginStart="@dimen/dp_8"
+            android:text="Squares!"
+            android:textAlignment="center"
+            android:textColor="@color/settingsColorAccent"
+            android:textSize="@dimen/text_62sp"
+            android:textStyle="bold"
+            android:shadowColor="#DFDEDE"
+            android:shadowDx="2"
+            android:shadowDy="20"
+            android:shadowRadius="10.0"
+            android:layout_marginBottom="@dimen/dp_80"/>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/reflexBtn"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="@dimen/dp_8"
+            android:clickable="true"
+            android:foreground="?selectableItemBackground">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_20"
+                android:gravity="center"
+                android:text="@string/reflex_mode"
+                android:textColor="@color/settingsColorAccent"
+                android:fontFamily="@font/audiowide"
+                android:textSize="@dimen/text_22sp"/>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/memoryBtn"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="@dimen/dp_8"
+            android:layout_marginTop="@dimen/dp_8"
+            android:clickable="true"
+            android:foreground="?selectableItemBackground"
+            android:layout_marginBottom="@dimen/dp_20">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_20"
+                android:gravity="center"
+                android:text="@string/memory_mode"
+                android:textColor="@color/settingsColorAccent"
+                android:fontFamily="@font/audiowide"
+                android:textSize="@dimen/text_22sp"/>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/settingsBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dp_20"
+            android:gravity="center"
+            android:text="Menu"
+            android:textColor="@color/settingsColorAccent"
+            android:fontFamily="@font/audiowide"
+            android:layout_marginTop="@dimen/dp_20"
+            android:textSize="@dimen/text_18sp"/>
+    </LinearLayout>
+    
+
+</androidx.constraintlayout.widget.ConstraintLayout>

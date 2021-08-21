@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Groupe_37" data-name="Groupe 37" transform="translate(-2950 -89)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="100" height="100" rx="6" transform="translate(2950 89)" fill="#fff"/>
+    <g id="Groupe_36" data-name="Groupe 36">
+      <g id="Groupe_35" data-name="Groupe 35" transform="translate(2 2)" opacity="0.188">
+        <rect id="Rectangle_57" data-name="Rectangle 57" width="24.781" height="24.781" rx="6" transform="translate(2997.781 112) rotate(90)"/>
+        <rect id="Rectangle_61" data-name="Rectangle 61" width="24.781" height="24.781" rx="6" transform="translate(2997.781 140) rotate(90)"/>
+        <rect id="Rectangle_59" data-name="Rectangle 59" width="24.781" height="24.781" rx="6" transform="translate(3025.781 112) rotate(90)"/>
+        <rect id="Rectangle_60" data-name="Rectangle 60" width="24.781" height="24.781" rx="6" transform="translate(3025.781 140) rotate(90)"/>
+      </g>
+      <g id="Groupe_34" data-name="Groupe 34">
+        <rect id="Rectangle_57-2" data-name="Rectangle 57" width="24.781" height="24.781" rx="6" transform="translate(2997.781 112) rotate(90)" fill="#56c596"/>
+        <rect id="Rectangle_61-2" data-name="Rectangle 61" width="24.781" height="24.781" rx="6" transform="translate(2997.781 140) rotate(90)" fill="#56c596"/>
+        <rect id="Rectangle_59-2" data-name="Rectangle 59" width="24.781" height="24.781" rx="6" transform="translate(3025.781 112) rotate(90)" fill="#56c596"/>
+        <rect id="Rectangle_60-2" data-name="Rectangle 60" width="24.781" height="24.781" rx="6" transform="translate(3025.781 140) rotate(90)" fill="#56c596"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="tap it beep_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.7674376417" vpos="0" h="0.0000000000" zoom="784.9903290061" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="COMMENTS" value=" 00000000 00000210 00000858 0000000000040998 00000000 00022493 00000000 00000000 00000000 00000000 00000000 00000000"/>
+		<tag name="Software" value="GarageBand 10.3.5"/>
+	</tags>
+	<wavetrack name="tap it beep" isSelected="1" height="312" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="33844">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fed6.au" len="33844" min="-0.879386" max="0.836304" rms="0.224051"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="9">
+				<controlpoint t="0.000000000000" val="0.730263113976"/>
+				<controlpoint t="0.023893333333" val="0.907894730568"/>
+				<controlpoint t="0.038912000000" val="0.967105269432"/>
+				<controlpoint t="0.050517333333" val="0.980263173580"/>
+				<controlpoint t="0.133821297113" val="0.887323975563"/>
+				<controlpoint t="0.271836638667" val="0.633802831173"/>
+				<controlpoint t="0.497557496215" val="0.239436626434"/>
+				<controlpoint t="0.695170371622" val="0.126760542393"/>
+				<controlpoint t="0.767442625356" val="0.028169035912"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="tap it beep" isSelected="1" height="211" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="33844">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f930.au" len="33844" min="-0.973984" max="0.987794" rms="0.221903"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="9">
+				<controlpoint t="0.000000000000" val="0.730263113976"/>
+				<controlpoint t="0.023893333333" val="0.907894730568"/>
+				<controlpoint t="0.038912000000" val="0.967105269432"/>
+				<controlpoint t="0.050517333333" val="0.980263173580"/>
+				<controlpoint t="0.133821297113" val="0.887323975563"/>
+				<controlpoint t="0.271836638667" val="0.633802831173"/>
+				<controlpoint t="0.497557496215" val="0.239436626434"/>
+				<controlpoint t="0.695170371622" val="0.126760542393"/>
+				<controlpoint t="0.767442625356" val="0.028169035912"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>

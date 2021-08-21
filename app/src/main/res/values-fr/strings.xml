@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Squares!</string>
+    <string name="settings">Paramètres</string>
+    <string name="grid_size">Taille de la grille</string>
+    <string name="reflex_mode">Mode Réflexe</string>
+    <string name="traps">Pièges</string>
+    <string name="memory_mode">Mode Mémoire</string>
+    <string name="random">Aléatoire</string>
+    <string name="save">Sauvegarder</string>
+    <string name="repeat">Répétition</string>
+    <string name="saved">Paramètres sauvegardés !</string>
+    <string name="sound">Son</string>
+    <string name="dialog_reflex_title">Astuces</string>
+    <string name="dialog_understood">Ok</string>
+    <string name="reflex_supporting_text">\nTouchez  le carré vert avant qu\'il disparaisse!\n\nN.b. attention au carré rouge!</string>
+    <string name="dialog_dont_show">Ne plus afficher</string>
+    <string name="dialog_memory_title">Astuces</string>
+    <string name="memory_supporting_text">\nObservez la séquence d\'apparition des carrés verts puis reproduisez là!\n\nN.b. La séquence s\'incrémente d\'un pas à chaque tour! </string>
+</resources>

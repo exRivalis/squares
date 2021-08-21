@@ -1,0 +1,27 @@
+<resources>
+	<dimen name="dp_56">70dp</dimen>
+	<dimen name="dp_12">15dp</dimen>
+	<dimen name="cardview_width">125dp</dimen>
+	<dimen name="dp_14">17.5dp</dimen>
+	<dimen name="dp_20">25dp</dimen>
+	<dimen name="dp_30">37.5dp</dimen>
+	<dimen name="dp_66">82.5dp</dimen>
+	<dimen name="save_btn_margin_bottom">100dp</dimen>
+	<dimen name="cardview_margin">25dp</dimen>
+	<dimen name="recycler_padding">25dp</dimen>
+	<dimen name="cardview_height">125dp</dimen>
+	<dimen name="save_btn_padding">77.5dp</dimen>
+	<dimen name="dp_40">50dp</dimen>
+	<dimen name="save_btn_margin_top">62.5dp</dimen>
+	<dimen name="item_padding">5dp</dimen>
+	<dimen name="text_padding_start">50dp</dimen>
+	<dimen name="text_20sp">25sp</dimen>
+	<dimen name="title_text_size">25sp</dimen>
+	<dimen name="text_16sp">20sp</dimen>
+	<dimen name="dp_8">10dp</dimen>
+	<dimen name="dp_200">250dp</dimen>
+	<dimen name="dp_80">100dp</dimen>
+	<dimen name="text_62sp">77.5sp</dimen>
+	<dimen name="text_22sp">27.5sp</dimen>
+	<dimen name="text_18sp">22.5sp</dimen>
+</resources>
